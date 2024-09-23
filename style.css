@@ -48,7 +48,6 @@ body {
     color: white;
 }
 
-/* Responsividade */
 @media (max-width: 768px) {
     .header {
         flex-direction: column;
